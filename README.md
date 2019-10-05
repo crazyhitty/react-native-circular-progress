@@ -89,6 +89,7 @@ You can configure the passing by following props:
 - **arcSweepAngle** - the angle that you want your arc to sweep in the case where you don't want a full circle. Default is 360.
 - **children(fill)** - you can pass function as a child to receive current fill
 - **onAnimationComplete** - you can pass a callback function that will be invoked when animation completes. (see [here](https://facebook.github.io/react-native/docs/animated.html#working-with-animations))
+- **animatedValue** - gives you a callback when animated value is changed.
 
 ## Running example app
 
